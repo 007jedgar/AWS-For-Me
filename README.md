@@ -17,6 +17,7 @@
 * [Nadir is amazing](https://medium.com/@dabit3) Sure, he's an amazon employee, so he basically being paid to make it look easy, but wow this is a good place to start reading and following along in tutorials
 * [Ben Awad](https://www.youtube.com/playlist?list=PLN3n1USn4xll0pSPWq8tA_aEKFOLQo5XG) The link is to his youtube playlist for react native && amplify. He has medium posts and code linked in the vid descriptions.
 * [Foo Bar](https://www.youtube.com/playlist?list=PLGyRwGktEFqdX2cjO5xQVKb96q2DpwASR) has always made great videos around AWS solutions. Here's her playlist on Amplify/AppSync an stuff
+* [Whole tutorial](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-acd80d60ec77) (Article)
 
 
 
@@ -28,6 +29,14 @@
 * [DynamoDB Docs](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.DataTypes.html)
 
 
+### Beginning to end tutorials
+* [Another Nadir article](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
+* [Medium Post](https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51)
+* [How to AppSync](https://www.youtube.com/playlist?list=PLrHsRbHuA_HVl5q2mQ6q7wjTitskiUuu6)
+* [Code an App With GraphQL, React Native, and AWS AppSync: The Back-End](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511) (Code tuts article)
+* [Code an App With GraphQL, React Native and AWS AppSync: The App](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569)
+
+
 ### AppSync & Web Hosting
 
-[Gatsby](https://medium.com/@dadc/aws-appsync-the-unexpected-a430ff7180a3)
+* [Gatsby](https://medium.com/@dadc/aws-appsync-the-unexpected-a430ff7180a3)
